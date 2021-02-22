@@ -52,4 +52,4 @@ function gameSpawnPlayers(game) {
 
 }
 
-document.gameSpawnPlayers = gameSpawnPlayers;
+$doc.gameSpawnPlayers = gameSpawnPlayers;
